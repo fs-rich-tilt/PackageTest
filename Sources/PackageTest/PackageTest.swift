@@ -3,4 +3,7 @@ public struct PackageTest {
 
     public init() {
     }
+    
+    public func foo() {
+    }
 }
